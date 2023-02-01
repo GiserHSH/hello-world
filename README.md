@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-i love :coffee: :pizza: and :basketball: :girl:
+i love :coffee: :pizza: and :basketball: 
